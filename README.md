@@ -1,7 +1,7 @@
 # PIA
 Pablo Emilio Guajardo De la Cruz - 1727651
 Descripción General del Repositorio: Repositorio blablabla [Descripción General del Repositorio](/guides/content/editing-an-existing-page)
-Manejo de APIs: blablabla [Manejo de APIs] (PIA/tree/main/Manejo_de_api)
+Manejo de APIs: blablabla [Manejo de APIs](PIA/tree/main/Manejo_de_api)
 Scripting en PowerShell
 Scripting en Bash
 Encoding & Decoding
