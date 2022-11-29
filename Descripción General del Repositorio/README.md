@@ -1,1 +1,1 @@
-a
+En este repositorio encontrarás algunos scripts realizados en la materia de Laboratorio de Programación para Ciberseguridad, tendrás la facilidad de ver los scripts junto a una breve descripción a detalle para saber que es lo que hace cada script de cada carpeta creados en este repositorio, se manejarán algunos temas como Manejo de APIs, Scripting en PowerShell, Scripting en Bash, Encoding & Decoding, Webscraping, Nmap, FTP, Escáner de Puertos, Envió de Correos y Automatización de Tareas, 
