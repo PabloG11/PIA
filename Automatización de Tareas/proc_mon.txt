@@ -1,0 +1,27 @@
+#!/bin/bash
+#
+#Script para listar procesos ejecutandose
+#en el servidor.
+#
+##Variables
+#
+TIME='date +%d-%m-%Y_%H:%M:%S'
+FECHA='date +%d-%m-%Y'
+#
+##Creando directorio de Log
+#
+if [ ! -d "$HOME/log" ]
+then
+        mkdir $HOME/log
+fi
+#
+##Listando procesos
+#
+echo "#" >> $HOME/log/procesos_14-11-2022.log
+echo "#######################################################" >> $HOME/log/procesos_14-11-2022.log
+echo "#" >> $HOME/log/procesos_14-11-2022.log
+echo "Hora:"$TIME >> $HOME/log/procesos_14-11-2022.log
+ps -ef >> $HOME/log/procesos_14-11-2022.log
+echo "TOTAL DE PROCESOS: "'ps -ef |wc .l' >> $HOME/log/procesos_14-11-2022.log
+echo "Hora:"$TIME >> $HOME/log/procesos_14-11-2022.log
+#
