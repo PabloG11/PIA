@@ -2,3 +2,19 @@ Hola. Para hacer uso de estos scripts deberás tener en cuenta que son scripts r
 
 #encode_text.py: primero que nada se importa la librería ya antes mencionada, y después le pide al usuario una entrada de teclado para que escriba alguna frase para codificarla y se guarda en la variable "frase", posteriormente se obtienen los bytes de la variable "frase", se calculan los bytes, posterior a esto se genera la frase codificada en base64 y se manda a imprimir la variable "frase" ya codificada.
 
+#encode_imgur.py:
+
+#decoding_uanl.py:
+
+#cypher.py:
+
+#coder_posh.ps1:
+
+#comando_secret.txt:
+
+#decoder_posh.ps1:
+
+#command_posh.ps1:
+
+#codipo.ps1:
+
