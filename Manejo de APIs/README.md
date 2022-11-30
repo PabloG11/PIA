@@ -1,1 +1,1 @@
-
+Hola. El objetivo de está práctica es más que nada saber manejar el uso de APIs es que se sepa utilizar la interfaz que favorece la comunicación entre dos sistemas o plataformas diferentes, esto con la finalidad de que sepas utiliza
