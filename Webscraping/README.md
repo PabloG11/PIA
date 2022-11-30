@@ -17,8 +17,8 @@
 
 #scrap9.py: en este script sólo editamos el nivel de divisiones para poder encontrar la información que necesitamos.
 
-#scrap10.py: 
+#scrap10.py: en este script agregamos información de contacto.
 
-#scrap11.py: 
+#scrap11.py: en este script para que la salida incluya el link de href, se realiza otro ajuste en el código.
 
-#scrap12.py: 
+#scrap12.py: en este script aunque nos muestra los dos elementos de href, en realidad solo nos interesa elelemento de “Apply Here”, así que solo se realizará un ajuste flitrandolo.
