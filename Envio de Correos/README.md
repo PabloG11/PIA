@@ -1,1 +1,5 @@
+Hola. Para hacer uso de este script deberás tener en cuenta que tendrás que tener implementadas las librerías smtp para el envío de correos en tu equipo.
 
+#enviodecorreos.py: este script básicamente esta hecho para mandar una imagen y mandar un mensaje en formato html, para esto deberás tener un correo y una contraseña para poder mandar correos desde gmail ya que estos parametros te los pide en el código (tendrás que introducir el correo de donde se enviará el archivo y un correo destinatario, también tendrás que tener una imagen específica dando el formato de esta misma). Tendrás que introducir también el asunto del correo; para la parte del formato html, tendrás que guardarlo en la variable "mensaje" y especificar el tipo de contenido (html) dentro de la variable, para que pueda mandarse en ese formato, posterior a todo esto se mandará el mensaje dado, puedes utilizar dos correos personales para prácticar y hacer uso de este script.
+
+fcfm_cool.PNG: es la imagen dada para que el script funcione.
