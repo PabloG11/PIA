@@ -1,3 +1,6 @@
+Hola. En esta carpeta encontraremos algunos scripts para hacer un poco de Webscraping esto con el objetivo de saber cómo funciona y como obtener metadata de alunas páginas web a través de su código HTML, para poder hacer uso de estos scripts deberás tener en cuenta que deberás tener implementadas las librerías de beautifulsoup desde bs4, csv y requests, de lo contrario no podrás utilizar estos scripts.
+
+#scrape_quotes.py: básicamente lo que hace este scriptes que harpa una petición a la URL del sitio, analizará el contenido HTML y generará listas, citas y autores para mostrar en pantalla y guardar en un archivo .csv.
 
 #scrap1.py: este script lo que hace es, conectarse y traer la información de una URL dada.
 
