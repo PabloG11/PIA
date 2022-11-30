@@ -1,1 +1,4 @@
+Hola. Para hacer uso de estos scripts deberás tener en cuenta que son scripts realizados en python (por lo que deberás tener instalado python en tu equipo) y son ejecutados en Powershell (por lo que tendrás que cambiar las políticas de ejecución de tu equipo). Se usarán librerías como base64 así que asegurate de tenerlas instaladas en tu equipo, de caso contrario no podrás hacer uso de estos scripts.
+
+#encode_text.py: primero que nada se importa la librería ya antes mencionada, y después le pide al usuario una entrada de teclado para que escriba alguna frase para codificarla y se guarda en la variable "frase", posteriormente se obtienen los bytes de la variable "frase", se calculan los bytes, posterior a esto se genera la frase codificada en base64 y se manda a imprimir la variable "frase" ya codificada.
 
